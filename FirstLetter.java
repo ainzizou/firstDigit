@@ -13,6 +13,8 @@ public class FirstLetter {
         
         System.out.println("So the first digit of this '" +a+"' is: "+firstDigit(a));
     }//end main method
+
+//method to determine the first digit
     
     public static int firstDigit(int n)
     {
